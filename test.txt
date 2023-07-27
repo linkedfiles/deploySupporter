@@ -1,0 +1,12 @@
+/2021/kamco/WebContent/WEB-INF/jsp/user/brd/brdDnmcMain.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/brd/brdQnaMain.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/brd/caBoardMain.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/brd/caFaqMain.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/common/subNavigator.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/em/anulEduScdl.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/em/aplStsMain.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/em/myClassMainGlobal.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/em/sbjctApplyMainGlobal.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/intro/intro1.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/lab/prfsLabMain.jsp
+/2021/kamco/WebContent/WEB-INF/jsp/user/micro/classifiedContentsGlobal.jsp
