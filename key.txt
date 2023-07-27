@@ -1,2 +1,1 @@
-/ket.txt
-adsfadsfadsfadsfasd
+*.txt
