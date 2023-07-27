@@ -10,3 +10,4 @@
 /2021/kamco/WebContent/WEB-INF/jsp/user/intro/intro1.jsp
 /2021/kamco/WebContent/WEB-INF/jsp/user/lab/prfsLabMain.jsp
 /2021/kamco/WebContent/WEB-INF/jsp/user/micro/classifiedContentsGlobal.jsp
+dd
